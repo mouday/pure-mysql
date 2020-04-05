@@ -1,6 +1,6 @@
 {
   "name": "pure-mysql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is a pure mysql lib, you just can use it to test and a script",
   "main": "index.js",
   "dependencies": {
