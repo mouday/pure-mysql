@@ -1,3 +1,7 @@
+/**
+ * https://www.npmjs.com/package/mysql
+ */
+
 const mysql = require('mysql')
 
 class Mysql {
