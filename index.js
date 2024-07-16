@@ -1,5 +1,9 @@
 /**
+ * reference:
+ * 
  * https://www.npmjs.com/package/mysql
+ * 
+ * https://www.runoob.com/nodejs/nodejs-mysql.html
  */
 
 const mysql = require('mysql')
